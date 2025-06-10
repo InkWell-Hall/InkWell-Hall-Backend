@@ -2,12 +2,15 @@ import  express from "express";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import { inkWellHallRoute } from "./routers/inkWell-Hall_route.js";
+import cors from cors;
 
 
 
 const app = express();
 
 app.use(express.json());
+
+app.use(cors());
 
 
 
