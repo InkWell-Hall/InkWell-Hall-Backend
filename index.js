@@ -14,7 +14,8 @@ app.use(express.json());
 dotenv.config();
 
 app.use('/api/v1',inkWellHallRoute);
-const PORT = 5173;
+
+const PORT = process.env.PORT || 5070;
 
 const MONGOURI = process.env.MONGO_URI;
 
