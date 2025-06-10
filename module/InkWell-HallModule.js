@@ -26,11 +26,11 @@ const userSchema = new Schema({
   location: String,
   interest: {
     type: String,
-    default: "" 
+    default: ""
   },
   Age: Number
   // role: { type: String, enum: ['user', 'admin'] }
-},{ timestamps: true });
+}, { timestamps: true });
 
 const User = mongoose.model('User', userSchema);
 
@@ -47,29 +47,34 @@ const User = mongoose.model('User', userSchema);
 // },{ timestamps: true });
 
 const bookSchema = new Schema({
-    isbn: { 
-      type: String, required: true 
-    },
-    title: { 
-      type: String, required: true 
-    },
-    subtitle: String,
-    author: { 
-      type: String, required: true 
-    },
-    published: { 
-      type: Number, required: true 
-    },
-    publisher: { 
-      type: String, required: true 
-    },
-    pages: Number,
-    description: { 
-      type: String, required: true 
-    },
-    website: { 
-      type: String, required: true 
-    },
+  isbn: {
+    type: String, required: true
+  },
+  title: {
+    type: String, required: true
+  },
+  subtitle: String,
+  author: {
+    type: String, required: true
+  },
+  published: {
+    type: Number, required: true
+  },
+  publisher: {
+    type: String, required: true
+  },
+  pages: Number,
+  description: {
+    type: String, required: true
+  },
+  website: {
+    type: String, required: true
+  },
+  imagePath: {
+    type: String,
+    required: true
+  }
+
 }, { timestamps: true });
 
 const Book = mongoose.model('Book', bookSchema);
