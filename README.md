@@ -1,2 +1,2 @@
 # InkWell-Hall_API
-API for liberary management
+API for library management
