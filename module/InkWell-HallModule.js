@@ -53,24 +53,21 @@ const bookSchema = new Schema({
   title: {
     type: String, required: true
   },
-  subtitle: String,
+
   category: String,
+  
   author: {
     type: String, required: true
   },
-  published: {
-    type: Number, required: true
-  },
+
   publisher: {
     type: String, required: true
   },
-  pages: Number,
+
   description: {
     type: String, required: true
   },
-  website: {
-    type: String, required: true
-  },
+
   imagePath: {
     type: String,
     required: true
