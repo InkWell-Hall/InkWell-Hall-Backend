@@ -24,5 +24,10 @@ export const bookSchema = Joi.array().items(Joi.object({
 
     description: Joi.string().required(),
 
-    imageURL: Joi.string().required(),
+    imageURL: Joi.array().items(
+        Joi.string()
+        .uri())
+        .min(1)
+        .max(5)
+        .required(),
 }))
