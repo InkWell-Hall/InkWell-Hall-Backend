@@ -34,7 +34,7 @@ inkWellHallRoute.get('/User', authenticate,authenticateUser);
 // get books from the web using axios from (https://www.googleapis.com/books/v1/volumes?q=books)
 // inkWellHallRoute.get('/Books',authenticate, getBooks);
 // save all books derived from site to my db
-inkWellHallRoute.get('/auth', authenticate);
+// inkWellHallRoute.get('/auth', authenticate);
 // inkWellHallRoute.post('/Books', saveBooks);
 inkWellHallRoute.post('/Books', postbooks);
 // get access to all books in my db
