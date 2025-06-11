@@ -59,15 +59,15 @@ const bookSchema = new Schema({
   author: {
     type: String, required: true
   },
-  
+
   description: {
     type: String, required: true
   },
 
-  imagePath: {
+  imageURL: [{
     type: String,
     required: true
-  }
+  }]
 
 }, { timestamps: true });
 

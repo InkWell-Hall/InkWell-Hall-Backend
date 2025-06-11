@@ -24,5 +24,5 @@ export const bookSchema = Joi.array().items(Joi.object({
 
     description: Joi.string().required(),
 
-    imagePath: Joi.string().required(),
+    imageURL: Joi.string().required(),
 }))

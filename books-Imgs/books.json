@@ -10,7 +10,7 @@
       "pages": 472,
       "description": "JavaScript lies at the heart of almost every modern web application, from social apps to the newest browser-based games. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
       "website": "http://eloquentjavascript.net/",
-      "imagePath" : "./books-Imgs/Eloquent-JavaScript-Second-Edition.jpg"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     },
     {
       "isbn": "9781449331818",
@@ -22,7 +22,7 @@
       "pages": 254,
       "description": "With Learning JavaScript Design Patterns, you'll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language. If you want to keep your code efficient, more manageable, and up-to-date with the latest best practices, this book is for you.",
       "website": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/",
-      "imagePath" : "./books-Imgs/Learning-JavaScript-Design-Patterns.jpg"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     },
     {
       "isbn": "9781449365035",
@@ -34,7 +34,7 @@
       "pages": 460,
       "description": "Like it or not, JavaScript is everywhere these days-from browser to server to mobile-and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position.",
       "website": "http://speakingjs.com/",
-      "imagePath" : "./books-Imgs/Speaking-JavaScript.jpg"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     },
     {
       "isbn": "9781491950296",
@@ -46,7 +46,7 @@
       "pages": 254,
       "description": "Take advantage of JavaScript's power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that's easier-yes, easier-to work with as your code base grows.",
       "website": "http://chimera.labs.oreilly.com/books/1234000000262/index.html",
-      "imagePath" : "./books-Imgs/Love-of-My-Life.jpg"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     },
     {
       "isbn": "9781593277574",
@@ -58,7 +58,7 @@
       "pages": 352,
       "description": "Mitigate uncertainties effectively with our business risk management solutions ensuring stability and growth for your organization",
       "website": "https://leanpub.com/understandinges6/read",
-      "imagePath" : "./books-Imgs/business-risk-management.jpg"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     },
     {
       "isbn": "9781491904244",
@@ -70,7 +70,7 @@
       "pages": 278,
       "description": "No matter how much experience you have with JavaScript, odds are you don\u2019t fully understand the language. As part of the \"You Don\u2019t Know JS\" series, this compact guide focuses on new features available in ECMAScript 6 (ES6), the latest version of the standard upon which JavaScript is built.",
       "website": "https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20&%20beyond",
-      "imagePath" : "./books-Imgs/You-Don't-Know-JS.jpg"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     },
     {
       "isbn": "9781449325862",
@@ -82,7 +82,7 @@
       "pages": 234,
       "description": "This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.",
       "website": "http://chimera.labs.oreilly.com/books/1230000000561/index.html",
-      "imagePath" : "./books-Imgs/Git-Pocket-Guide.png"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     },
     {
       "isbn": "9781469325862",
@@ -94,7 +94,7 @@
       "pages": 234,
       "description": "lets make money.",
       "website": "http://chimera.labs.oreilly.com/books/1230000000561/index.html",
-      "imagePath" : "./books-Imgs/Make-money-guide.png"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     },
     {
       "isbn": "9781449325662",
@@ -106,7 +106,7 @@
       "pages": 234,
       "description": "How to earn passive income with online businesses.",
       "website": "http://chimera.labs.oreilly.com/books/1230000000561/index.html",
-      "imagePath" : "./books-Imgs/Make-money-guide.png"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
   
     },
     {
@@ -119,7 +119,7 @@
       "pages": 234,
       "description": "Pursuing the creative life Without Quitting your day job.",
       "website": "http://chimera.labs.oreilly.com/books/1230000000561/index.html",
-      "imagePath" : "./books-Imgs/Money-Hustle.png"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     },
     {
       "isbn": "9781449337711",
@@ -131,7 +131,7 @@
       "pages": 538,
       "description": "Design and build Web APIs for a broad range of clients\u2014including browsers and mobile devices\u2014that can adapt to change over time. This practical, hands-on guide takes you through the theory and tools you need to build evolvable HTTP services with Microsoft\u2019s ASP.NET Web API framework. In the process, you\u2019ll learn how design and implement a real-world Web API.",
       "website": "http://chimera.labs.oreilly.com/books/1234000001708/index.html",
-      "imagePath" : "./books-Imgs/Designing-Evolvable-Web-APIs-with-ASP-NET.jpg"
+      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
     }
   ]
 }
