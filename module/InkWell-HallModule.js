@@ -18,6 +18,7 @@
 // export default Book;
 
 import mongoose, { Schema } from 'mongoose';
+import normalize from 'normalize-mongoose';
 
 // User model
 const userSchema = new Schema({
@@ -32,7 +33,7 @@ const userSchema = new Schema({
   // role: { type: String, enum: ['user', 'admin'] }
 }, { timestamps: true });
 
-const User = mongoose.model('User', userSchema);
+const User = mongoose.model('User', userSchema.plugin(normalize));
 
 // Book model
 // const bookSchema = new Schema({
@@ -71,5 +72,5 @@ const bookSchema = new Schema({
 
 }, { timestamps: true });
 
-const Book = mongoose.model('Book', bookSchema);
+const Book = mongoose.model('Book', bookSchema.plugin(normalize));
 export { User, Book };
