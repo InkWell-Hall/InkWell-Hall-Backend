@@ -28,5 +28,6 @@ export const bookSchema = Joi.array().items(Joi.object({
         Joi.string()
         .uri())
         .min(1)
-        .max(5),
+        .max(5)
+        .required(),
 }))

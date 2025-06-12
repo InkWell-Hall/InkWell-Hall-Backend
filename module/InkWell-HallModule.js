@@ -67,6 +67,7 @@ const bookSchema = new Schema({
 
   imageURL: [{
     type: String,
+    required: true
   }]
 
 }, { timestamps: true });
