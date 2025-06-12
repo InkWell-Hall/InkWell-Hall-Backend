@@ -14,7 +14,7 @@
       "category": "IT",
       "author": "Addy Osmani",
       "description": "With Learning JavaScript Design Patterns, you'll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language. If you want to keep your code efficient, more manageable, and up-to-date with the latest best practices, this book is for you.",
-      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
+      "imageURL" : ["https://www.oreilly.com/library/cover/9781098139865/1200w630h/","https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344734794i/14289134.jpg","https://imgv2-1-f.scribdassets.com/img/document/391759913/original/a316d44ea9/1?v=1","https://image.torob.com/base/images/KO/WD/KOWDNp3jcAQBJ29U.webp_/280x280.jpg","https://anorshop.com/images/product_images/1/3652/630161.jpg"]
     },
     {
       "isbn": "9781449365035",
@@ -30,15 +30,15 @@
       "category": "Romantic",
       "author": "Morgan Maxwell",
       "description": "Take advantage of JavaScript's power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that's easier-yes, easier-to work with as your code base grows.",
-      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
+      "imageURL" : ["https://bizweb.dktcdn.net/thumb/grande/100/326/228/products/the-love-of-my-life-by-rosie-walsh-bookworm-hanoi-8bbbad71-e96d-4254-9b70-e7ed656b96eb.jpg?v=1719648650317","https://m.media-amazon.com/images/S/aplus-media/sota/e61a58a1-a19f-4a1d-9349-dc74819cb1c2.__CR0,0,300,300_PT0_SX300_V1___.jpeg","https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnRYEMCiESZsxQbIaAtxqKW4sFsgmOl5tF5vCxv8Q0OuDQgnkzbBrTcnuK3oVyZfsbTBD_iprmLwzqO-xonkjQR_XweY-sqvn1T86XuizBA8JmTmSLhdvvFmQrxi98GiZq__qsWlQx4sTEhdpsNpgNVD0MGWUBiKreTg4WtqUfe6ruqyI2ZC04UjZLxsnk/s2400/the%20love%20of%20my%20life%20by%20rosie%20walsh%20book.jpg","https://cdn.waterstones.com/bookjackets/large/9781/5098/9781509828340.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/0fc7e83f-0cb6-44e3-86a1-8d045e87fcb4.__CR0,0,970,600_PT0_SX970_V1___.png"]
     },
     {
       "isbn": "9781593277574",
-      "title": "Business risk management",
+      "title": "Business Risk Management",
       "category": "classic",
       "author": "Nicholas C. Zakas",
       "description": "Mitigate uncertainties effectively with our business risk management solutions ensuring stability and growth for your organization",
-      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
+      "imageURL" : ["https://shop.taxguru.in/wp-content/uploads/2024/07/BUSINESS-RISK-Management-Front.jpg","https://shop.taxguru.in/wp-content/uploads/2024/07/BUSINESS-RISK-Management-Front.jpg","https://shop.taxguru.in/wp-content/uploads/2024/07/BUSINESS-RISK-Management-Front.jpg","https://shop.taxguru.in/wp-content/uploads/2024/07/BUSINESS-RISK-Management-Front.jpg","https://shop.taxguru.in/wp-content/uploads/2024/07/BUSINESS-RISK-Management-Front.jpg"]
     },
     {
       "isbn": "9781491904244",
@@ -46,7 +46,7 @@
       "category": "IT",
       "author": "Kyle Simpson",
       "description": "No matter how much experience you have with JavaScript, odds are you don\u2019t fully understand the language. As part of the \"You Don\u2019t Know JS\" series, this compact guide focuses on new features available in ECMAScript 6 (ES6), the latest version of the standard upon which JavaScript is built.",
-      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
+      "imageURL" : ["https://m.media-amazon.com/images/I/71mKvD89oEL.jpg","https://learning.oreilly.com/library/cover/9781491924471/250w/","https://m.media-amazon.com/images/I/71nqnAFzS5S._AC_UF1000,1000_QL80_.jpg","https://i.thriftbooks.com/api/imagehandler/A8DECCEA89703318281C4EAB0AB0B206686B7EE1.jpeg","https://m.media-amazon.com/images/I/919-DzRGiZL._AC_UF1000,1000_QL80_.jpg"]
     },
     {
       "isbn": "9781449325862",
@@ -54,7 +54,7 @@
       "category": "IT",
       "author": "Richard E. Silverman",
       "description": "This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.",
-      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
+      "imageURL" : ["https://m.media-amazon.com/images/I/81w+gIV-PwL._AC_UF1000,1000_QL80_.jpg","https://shop.pimoroni.com/cdn/shop/products/Git_pocket_guide_lrg_192x192_crop_center.jpg?v=1412084864","https://m.media-amazon.com/images/I/81w+gIV-PwL._AC_UF1000,1000_QL80_.jpg","https://m.media-amazon.com/images/I/81w+gIV-PwL._AC_UF1000,1000_QL80_.jpg","https://m.media-amazon.com/images/I/81w+gIV-PwL._AC_UF1000,1000_QL80_.jpg"]
     },
     {
       "isbn": "9781469325862",
@@ -62,7 +62,7 @@
       "category": "classic",
       "author": " Kyrie Petrakis",
       "description": "lets make money.",
-      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
+      "imageURL" : ["https://marketplace.canva.com/EAGUwsoUrrQ/1/0/1024w/canva-red-minimal-money-guide-e-book-cover-6Q8oMzqLUP8.jpg","https://marketplace.canva.com/EAGUwsoUrrQ/1/0/1024w/canva-red-minimal-money-guide-e-book-cover-6Q8oMzqLUP8.jpg","https://marketplace.canva.com/EAGUwsoUrrQ/1/0/1024w/canva-red-minimal-money-guide-e-book-cover-6Q8oMzqLUP8.jpg","https://marketplace.canva.com/EAGUwsoUrrQ/1/0/1024w/canva-red-minimal-money-guide-e-book-cover-6Q8oMzqLUP8.jpg","https://marketplace.canva.com/EAGUwsoUrrQ/1/0/1024w/canva-red-minimal-money-guide-e-book-cover-6Q8oMzqLUP8.jpg"]
     },
     {
       "isbn": "9781449325662",
@@ -70,7 +70,7 @@
       "category": "classic",
       "author": "Richard E. Silverman",
       "description": "How to earn passive income with online businesses.",
-      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
+      "imageURL" : ["https://marketplace.canva.com/EAGOcWxL8vc/1/0/1024w/canva-purple-illustrative-money-tips-ebook-cover-f7t8mGm2ZZs.jpg","https://marketplace.canva.com/EAGOcWxL8vc/1/0/1024w/canva-purple-illustrative-money-tips-ebook-cover-f7t8mGm2ZZs.jpg","https://marketplace.canva.com/EAGOcWxL8vc/1/0/1024w/canva-purple-illustrative-money-tips-ebook-cover-f7t8mGm2ZZs.jpg","https://marketplace.canva.com/EAGOcWxL8vc/1/0/1024w/canva-purple-illustrative-money-tips-ebook-cover-f7t8mGm2ZZs.jpg","https://marketplace.canva.com/EAGOcWxL8vc/1/0/1024w/canva-purple-illustrative-money-tips-ebook-cover-f7t8mGm2ZZs.jpg"]
   
     },
     {
@@ -79,7 +79,7 @@
       "category": "classic",
       "author": "Elizabeth Murphy",
       "description": "Pursuing the creative life Without Quitting your day job.",
-      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
+      "imageURL" : ["https://www.oreilly.com/library/cover/9780596517717/1200w630h/","https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349034463i/1657098.jpg","https://m.media-amazon.com/images/I/61LYBdWIWHL._SL500_.jpg","https://personalmba.com/img/book/making-things-happen.jpg","https://rezised-images.knhbt.cz/1920x1920/4580004.jpg"]
     },
     {
       "isbn": "9781449337711",
@@ -87,7 +87,7 @@
       "category": "IT",
       "author": "Glenn Block, et al.",
       "description": "Design and build Web APIs for a broad range of clients\u2014including browsers and mobile devices\u2014that can adapt to change over time. This practical, hands-on guide takes you through the theory and tools you need to build evolvable HTTP services with Microsoft\u2019s ASP.NET Web API framework. In the process, you\u2019ll learn how design and implement a real-world Web API.",
-      "imageURL" : ["https://m.media-amazon.com/images/I/81+8sluiHiL.SY385.jpg", "https://imgv2-2-f.scribdassets.com/img/document/272302997/original/40c58d43cf/1?v=1", "https://cdn10.bigcommerce.com/s-g9n04qy/products/509854/images/523917/51jvMXBl5EL__20282.1626573572.500.500.jpg?c=2","https://whs.dmmserver.com/media/640/97817185/9781718504103.jpg","https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a479912-4e72-43ae-982d-59cf50048a9e.__CR0,0,1080,1080_PT0_SX300_V1___.png"]
+      "imageURL" : ["https://learning.oreilly.com/library/cover/9781449337919/250w/","https://m.media-amazon.com/images/I/51iqz9lKK-L._AC_SY200_QL15_.jpg","https://m.media-amazon.com/images/I/51iqz9lKK-L._AC_SY200_QL15_.jpg","https://m.media-amazon.com/images/I/51iqz9lKK-L._AC_SY200_QL15_.jpg","https://m.media-amazon.com/images/I/51iqz9lKK-L._AC_SY200_QL15_.jpg"]
     }
   ]
 }
