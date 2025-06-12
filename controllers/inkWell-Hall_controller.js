@@ -77,7 +77,7 @@ import { bookSchema } from '../Schemas/InkWell-Hall_BookSchema.js';
 export const registerUser = async (req, res) => {
   try {
     const hashedPassword = await bcrypt.hash(req.body.password, 10);
-    const user = new User({ ...req.body, password: hashedPassword });
+    const user = new User({...req.body, password: hashedPassword });
     await user.save();
     res.json(user);
   } catch (error) {
